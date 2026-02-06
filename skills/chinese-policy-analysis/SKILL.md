@@ -1,5 +1,5 @@
 ---
-name: Chinese Policy Analysis
+name: chinese-policy-analysis
 description: This skill should be used when the user asks to "分析中国政策", "评估政策落地可能性", "判断政策执行力度", "预判政策走向", "解读政策文件", or needs systematic framework to analyze Chinese government policy implementation likelihood, execution paths, and actual impact.
 ---
 
